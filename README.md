@@ -11,7 +11,7 @@
 In order to do this exercise, first you must __fork__ this repo to your github account, and then __clone__ your fork.
 Not sure how to do it? Check this out!
 
-[How to fork](https://help.github.com/articles/fork-a-repo/)
+[How to fork](https://help.github.com/articles/fork-a-repo/)  
 [How to clone](https://help.github.com/articles/cloning-a-repository/)
 
 You will find an index.html, all your work should be in this file.
