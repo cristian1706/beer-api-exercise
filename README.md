@@ -6,8 +6,18 @@
 
 ![code](assets/codingTime.gif)
 
+## Setup
+
+In order to do this exercise, first you must __fork__ this repo to your github account, and then __clone__ your fork.
+Not sure how to do it? Check this out!
+
+[How to fork](https://help.github.com/articles/fork-a-repo/)
+[How to clone](https://help.github.com/articles/cloning-a-repository/)
+
+You will find an index.html, all your work should be in this file.
 
 ## Exercise concept
+
 Let's put our skills to test using __plain JavaScript__!! This will be the focus of the exercise. Some other things like styling, responsivness, etc, are not a must, but will be taken into consideration if you add them.
 
 ## What is it about?
