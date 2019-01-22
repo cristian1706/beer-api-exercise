@@ -18,7 +18,7 @@ You will find an index.html, all your work should be in this file.
 
 ## Exercise concept
 
-Let's put our skills to test using __plain JavaScript__!! This will be the focus of the exercise. Some other things like styling, responsivness, etc, are not a must, but will be taken into consideration if you add them.
+Let's put our skills to test using __JavaScript__!! This will be the focus of the exercise. Some other things like styling, responsivness, etc, are not a must, but will be taken into consideration if you add them. Feel free to use any framework, library, or just plain JavaScript. The decision is yours!
 
 ## What is it about?
 
@@ -33,7 +33,7 @@ Luckily, we _do_ know a public API about this topic, called [PUNK API](https://p
 
 ## App needs
 
-Using the data from the provided API, we need te Web app to:
+Using the data from the provided API, we need the Web app to:
 
 * Display a list of 10 beers with their ibu and ph. No sorting criteria needed.
 * Display a button to show a custom error.
